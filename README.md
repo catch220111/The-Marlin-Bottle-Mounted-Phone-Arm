@@ -16,7 +16,6 @@ Built for athletes and coaches who film their own training, creators who shoot i
 ## Repository layout
 
 ```
-cad/
 ├── 3mf/    Colored assemblies (Onshape export) — best for viewing
 │   ├── MarlinArmDeployed.3mf      full assembly, unfolded filming position
 │   └── MarlinArmFolded.3mf        full assembly, collapsed pocket state
@@ -99,4 +98,4 @@ This is an open hardware project in its earliest stage. Print attempts, toleranc
 
 ## License
 
-TBD — a license will be added before the first tagged release. Until then, files are shared for evaluation and personal printing; please get in touch before redistributing or commercializing.
+[MIT](LICENSE) — print it, remix it, build on it. Attribution appreciated.
